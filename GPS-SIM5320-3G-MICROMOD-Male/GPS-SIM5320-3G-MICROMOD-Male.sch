@@ -7950,7 +7950,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="JP3" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NC_TRACE" device="_NO-SILK" package3d_urn="urn:adsk.eagle:package:39286/1"/>
 <part name="D5" library="microbuilder" deviceset="DIODE" device="SOD-323" value="1N4148"/>
 <part name="D7" library="microbuilder" deviceset="DIODE" device="SOD-323" value="1N4148"/>
-<part name="R2" library="microbuilder" deviceset="RESISTOR" device="0805_NOOUTLINE" value="10K"/>
+<part name="R2" library="microbuilder" deviceset="RESISTOR" device="0805_NOOUTLINE" value="10"/>
 <part name="MMM1" library="Micromod_4222_Male_NoDim" deviceset="MICROMOD_4222_MALE" device=""/>
 <part name="VIO" library="microbuilder" deviceset="2.8V" device=""/>
 <part name="VIO1" library="microbuilder" deviceset="2.8V" device=""/>
@@ -8260,7 +8260,7 @@ shifting internally</text>
 </instance>
 <instance part="R2" gate="G$1" x="309.88" y="213.36" smashed="yes" rot="R90">
 <attribute name="NAME" x="307.34" y="213.36" size="1.27" layer="95" font="vector" rot="R90" align="center"/>
-<attribute name="VALUE" x="309.88" y="210.82" size="1.016" layer="96" font="vector" ratio="15" rot="R90" align="center"/>
+<attribute name="VALUE" x="309.88" y="213.36" size="1.016" layer="96" font="vector" ratio="15" rot="R90" align="center"/>
 </instance>
 <instance part="MMM1" gate="G$1" x="132.08" y="63.5" smashed="yes">
 <attribute name="NAME" x="111.76" y="107.188" size="1.778" layer="95"/>
